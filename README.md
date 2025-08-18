@@ -26,11 +26,30 @@ AI Engineer passionate about **Retrieval-Augmented Generation (RAG)** and **docu
 
 - **rag-eval-harness (Personal)**  
   Automated evaluation for RAG pipelines (accuracy, faithfulness, evidence exposure).  
+   
 
-- **B2B App – The Peak (Internship at TheSunhan, 더선한 주식회사)**  
-  Contributed as data engineer/analyst. Also wrote research article on **HyDE for RAG improvement**.  
-  [📄 Article: *Enhancing RAG with HyDE – Theory & Applications*](https://jisanedu.tistory.com/414513)  
+---
 
+### 💼 Career
+- **TheSunhan, Inc. (더선한 주식회사) – Data Engineer/Analyst (Intern)** · 2024.11–2024.12  
+  Built ETL → dashboard for B2B service **The Peak**; wrote a research article on **HyDE for RAG** (theory & applications).
+  [📄 Article: *Enhancing RAG with HyDE – Theory & Applications*](https://jisanedu.tistory.com/414513)   
+
+- **Strasse (개인사업)** – Founder/Operator, E-commerce · 2021.05–2024.10  
+  Ran a women’s plus-size footwear shop end-to-end (product sourcing, operations, CS). Practiced **data-driven decisions** 
+
+---
+
+### 📚 Education & Training
+- **Microsoft AI Engineering Program (청년취업사관학교)** · 2025.06–2025.08  
+  Learned Azure-based AI solution development; built **RAG** and deployed pipelines via **Azure ML/Functions** projects.
+
+- **Salesforce Tableau Bootcamp** · 2024.10–2024.11  
+  Advanced dashboards and data storytelling with **Tableau**.
+
+- **Sparta Coding Club – Data Analysis Bootcamp** · 2024.06–2024.11  
+  SQL, Python, ML, statistics; four domain projects.
+  
 ---
 
 ### 🧩 Tech Stack & Interests
@@ -39,17 +58,11 @@ AI Engineer passionate about **Retrieval-Augmented Generation (RAG)** and **docu
 - Vector Search: Azure AI Search, CosmosDB  
 - LLM Engineering: Embeddings, GPT-based apps  
 - Backend/API: FastAPI, Azure Functions  
-- UI/Prototyping: Streamlit, Gradio  
+- UI/Prototyping: Gradio, Streamlit
+- Visualization: Tableau, Plotly/Matplotlib (Python)  
 - Data: PostgreSQL, CI/CD on Azure  
 
 Also interested in broader **AI engineering domains** beyond RAG, including NLP, data pipelines, and applied ML.  
-
----
-
-### 📚 Education & Training
-
-- **Sesac AI School (청년취업사관학교, Mapo Campus)**  
-  Learned end-to-end AI engineering: data preprocessing, ML/DL basics, deployment on Azure, and **RAG curriculum (교안 RAG_1, RAG_2)**.  
 
 ---
 
