@@ -1,72 +1,36 @@
-# Hi, I'm Hoyeon (호연) 👋
+## Hi, I'm Hoyeon Kim (김호연)
 
-AI Engineer passionate about **Retrieval-Augmented Generation (RAG)** and **document automation**: OCR → retrieval → grounded answers.
+AI agent builder working on **MateAI**. My goal is Solution Mates: AI companions with memory, personality and a useful role in everyday work.
 
-**What I focus on:**  
-- RAG pipelines with Azure (retrieval, embeddings, API integration)  
-- OCR automation (Azure Document Intelligence, PaddleOCR)  
-- Document-to-knowledge workflows and evaluation  
+My path runs through English literature and philosophy, running an online store, and data-analysis internships. I now use Python, LLM APIs and AI coding tools to turn ideas into working prototypes and small, testable experiments.
 
----
+### Current work
 
-### 🔭 Representative Projects
+- **MateAI** · travel-companion character chat (planning and implementation). Demo: https://mateai-web-jk4v-two.vercel.app (the public demo answers with an OpenAI model, as noted on screen) · Overview: https://trymateai.com
+- **Small evaluation experiments** around the chat engine: checking invented facts and memory retention in long conversations. Results are exploratory and small-scale.
+- **그때그짤 (OBA.RUN 2nd, team)** · a photo-search prototype connected to VOOY. Our team received the VOOY Track Award. My role: service planning and presentation content. https://github.com/kbannie/vooy-gallery-rag
+- **CodySafe (Codyssey AI Hackathon 2026, team)** · a scam-response training app. I worked on an early GPU model-serving experiment and manually labelled 60 synthetic dialogue responses for a separate evaluation experiment. https://github.com/rla8127/CodySafe
+- **Top3 (Codyssey team project)** · crypto signal dashboard. I built data collection, the signal engine, API, UI and Discord alerts. https://top3-crypto.vercel.app
 
-- **HistPath (Team Project, Sesac)**  
-  OCR of *Joseon Annals* (조선왕조실록), integrated with Azure AI Search and RAG chatbot (strict vs. creative modes).  
-  [📄 Final Presentation (PDF)](./PPT_역사로_HistPath.pdf)  
-  [🔗 Repository](https://github.com/Sesac2nd/Five-Eyes)  
+### Earlier projects
 
-- **PoliSight (Team Project, Sesac)**  
-  National Assembly attendance data parser, large-scale PDF OCR, data cleaning, and RAG-ready pipeline.  
-  [📄 Mid-term Report (PDF)](./PPT_Polisight.pdf)  
-  [🔗 Parser Repo](https://github.com/Outlier-sesac/assembly-attendance-data-parser)  
+- **HistPath** (team lead · SeSAC Microsoft AI Engineer course, excellence award) · OCR of the Joseon Annals with search and a RAG chatbot. [Final presentation (PDF)](./PPT_역사로_HistPath.pdf)
+- **PoliSight** (team lead · top award in the same course) · National Assembly data parsing and a RAG-ready pipeline. [Mid-term report (PDF)](./PPT_Polisight.pdf)
+- **Character-chat service comparison** · https://github.com/kimble125/zepeto-characterchat-monetization
+- **Webtoon cut analysis** · https://github.com/kimble125/cutmaster-webtoon-analysis
 
-- **rag-azure-starter (Personal)**  
-  Minimal RAG setup with Azure OpenAI + Cosmos DB (or Azure AI Search).  
+### Experience
 
-- **rag-eval-harness (Personal)**  
-  Automated evaluation for RAG pipelines (accuracy, faithfulness, evidence exposure).  
-   
+- **PM-International Korea** · Data Analysis Intern · 2025.09–2025.12 · processed 15,507 social media posts across seven channels, explored content clusters and engagement KPIs, led an intern subteam.
+- **TheSunhan** · Data Analysis Intern · 2024.11–2024.12 · a five-stage data-processing pipeline and a Streamlit dashboard demo for a B2B matching MVP; co-authored an article on HyDE for RAG.
+- **Strasse** · Online Retail Owner & Operator · 2021.05–2024.10 · ran an online clothing store using sales data, customer questions, reviews and search trends.
 
----
+### Education and training
 
-### 💼 Career
-- **TheSunhan, Inc. (더선한 주식회사) – Data Engineer/Analyst (Intern)** · 2024.11–2024.12  
-  Built ETL → dashboard for B2B service **The Peak**; wrote a research article on **HyDE for RAG** (theory & applications).
-  [📄 Article: *Enhancing RAG with HyDE – Theory & Applications*](https://jisanedu.tistory.com/414513)   
+- Hankuk University of Foreign Studies · BA in English Literature (minor in Philosophy) · master's coursework completed (degree not awarded)
+- Codyssey (2026) · SeSAC K-Webtoon IP and global content business course (2026) · SeSAC Microsoft AI Engineer course (2025)
+- AI-900 (2025) · ADsP (2024) · AICE Basic (2026)
 
-- **Strasse (개인사업)** – Founder/Operator, E-commerce · 2021.05–2024.10  
-  Ran a women’s plus-size footwear shop end-to-end (product sourcing, operations, CS). Practiced **data-driven decisions** 
+### Contact
 
----
-
-### 📚 Education & Training
-- **Microsoft AI Engineering Program (청년취업사관학교)** · 2025.06–2025.08  
-  Learned Azure-based AI solution development; built **RAG** and deployed pipelines via **Azure ML/Functions** projects.
-
-- **Salesforce Tableau Bootcamp** · 2024.10–2024.11  
-  Advanced dashboards and data storytelling with **Tableau**.
-
-- **Sparta Coding Club – Data Analysis Bootcamp** · 2024.06–2024.11  
-  SQL, Python, ML, statistics; four domain projects.
-  
----
-
-### 🧩 Tech Stack & Interests
-
-- OCR: Azure Document Intelligence, PaddleOCR  
-- Vector Search: Azure AI Search, CosmosDB  
-- LLM Engineering: Embeddings, GPT-based apps  
-- Backend/API: FastAPI, Azure Functions  
-- UI/Prototyping: Gradio, Streamlit
-- Visualization: Tableau, Plotly/Matplotlib (Python)  
-- Data: PostgreSQL, CI/CD on Azure  
-
-Also interested in broader **AI engineering domains** beyond RAG, including NLP, data pipelines, and applied ML.  
-
----
-
-### 📫 Contact
-
-- 📧 Email: hoykim125@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/hoyeon-kim125](https://www.linkedin.com/in/hoyeon-kim125/)  
+- hoykim125@gmail.com · LinkedIn: https://www.linkedin.com/in/hoyeon-kim125/
